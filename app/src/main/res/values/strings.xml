@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">酷酷天气</string>
+    <string name="forecast">预报</string>
+    <string name="aqi">空气质量</string>
+    <string name="txt_aqi">AQI指数</string>
+    <string name="pm25">PM2.5指数</string>
+    <string name="suggestion">生活建议</string>
+    <string name="wind">风力风向</string>
+    <string name="exit">再按一次退出程序</string>
+</resources>

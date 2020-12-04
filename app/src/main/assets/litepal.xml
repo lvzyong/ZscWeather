@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="zsc_weather" />
+    <version value="1" />
+    <list>
+        <mapping class="com.example.zscweather.db.Province" />
+        <mapping class="com.example.zscweather.db.City" />
+        <mapping class="com.example.zscweather.db.County" />
+    </list>
+</litepal>
