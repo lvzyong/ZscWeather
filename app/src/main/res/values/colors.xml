@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="good">#77ff77</color>
+    <color name="良">#77DDBB</color>
+    <color name="轻">#ff88ff</color>
+    <color name="中">#ffDD55</color>
+    <color name="重">#ff3333</color>
+    <color name="严">#AA0000</color>
+</resources>
